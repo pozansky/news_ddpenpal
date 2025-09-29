@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "calculator": {
+    "news_ddpenpal": {
       "command": "python",
       "args": ["src/news_server/server.py"]
     }
